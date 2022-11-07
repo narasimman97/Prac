@@ -14,4 +14,16 @@ public class Sample {
 	    System.out.println("jap");
 
 	}
+	public void singapore() {
+		System.out.println("sing");
+
+	}
+	public void thailand() {
+		System.out.println("thai");
+
+	}
+	public void america() {
+		System.out.println("amer");
+
+	}
 }
